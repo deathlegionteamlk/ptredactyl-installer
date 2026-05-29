@@ -124,17 +124,6 @@ The installer creates these port allocations on the node automatically:
 
 ---
 
-## Skill Install (Claude Code)
 
-```bash
-mkdir -p ~/.claude/skills/pterodactyl-installer
-cp SKILL.md ~/.claude/skills/pterodactyl-installer/
-```
-
-Invoke with `/pterodactyl-installer` in Claude Code.
-
----
-
-## License
 
 MIT — github.com/Deathlegionteamlk
